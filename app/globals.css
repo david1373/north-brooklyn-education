@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 60 100% 97%;
+  --foreground: 36 100% 10%;
+  --light-gray: 0 0% 45%;
+}
+
+body {
+  background-color: #fefce8; /* yellow-50 */
+}
+
+p {
+  font-weight: 100;
+}
+
